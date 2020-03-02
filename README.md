@@ -8,7 +8,7 @@ How to use this script:
 -- OR --
 
 1. Download the script. 
-2. Save the entire unzipped files at: C: Program Files > Adobe > Adobe Photoshop CC 2020 > Presets > Scripts. 
+2. Extract the zip at "C: Program Files > Adobe > Adobe Photoshop CC 2020 > Presets > Scripts". 
 3. Open Photoshop. 
 4. At Photoshop go to File > Scripts > Browse and find your script. 
 5. Once you select it will already run. 
