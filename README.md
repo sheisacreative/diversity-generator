@@ -3,7 +3,7 @@ A free Photoshop Script that generates random dolls, cause we can't choose a per
 
 "Diversity Generator" is a free, open source, Photoshop Script that generates, with a few clicks, until 100 dolls. Made for those who undestand that we can't choose a person, or the same biased images that represents them. Choose the options that best fit your need for background style and colors, but let the script generate random dolls for you.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g8dEqd7keCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Diversity Generator - Free ´Photoshop Script](https://img.youtube.com/vi/g8dEqd7keCI/0.jpg)](https://www.youtube.com/watch?v=g8dEqd7keCI)
 
 ## How to use this script:
 
