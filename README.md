@@ -10,7 +10,10 @@ A free Photoshop Script that generates random dolls, cause we can't choose a per
 -- OR --
 
 1. Download the script. 
-2. Extract the zip at "C: Program Files > Adobe > Adobe Photoshop CC 2020 > Presets > Scripts". 
+2. Extract the zip.
+3. Go to the folder it created "diversity-generator-master"
+4. Copy the "Diversity Generator" Folder and the "diversitygenerator_by_maianearaujo.jsx".
+5. Paste at "C: Program Files > Adobe > Adobe Photoshop CC 2020 > Presets > Scripts". 
 3. Open Photoshop. 
 4. At Photoshop go to File > Scripts > Browse and find your script. 
 5. Once you select it will already run. 
