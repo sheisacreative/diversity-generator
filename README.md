@@ -5,7 +5,7 @@ A free Photoshop Script that generates random dolls, cause we can't choose a per
 
 ## How to use this script:
 
-1. Watch this video about how to run scripts on Photoshop: https://www.youtube.com/watch?v=WWRh04tq_Sw
+1. Watch this video: https://www.youtube.com/watch?v=ru0wJLNwKFY
 
 -- OR --
 
