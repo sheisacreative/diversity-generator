@@ -64,7 +64,6 @@ if (documents.length > 0) {
     
 } else {
 
-    $.writeln("2");
     openCorrectFile();
     
 }
