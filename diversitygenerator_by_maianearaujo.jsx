@@ -21,7 +21,7 @@ function openCorrectFile() {
 
             alert("Looks like the file is incorrect. :( \n In order to continue, please, open the Photoshop's File \"diversitygenerator_by_maianearaujo.psd\" and try again.");
             var inputFile = File.openDialog("Por please, open the Photoshop's File \"diversitygenerator_by_maianearaujo.psd\"", "*.psd", false);
-            open(inputFile);
+            open(File(inputFile));
             
 
 }
@@ -64,9 +64,8 @@ if (documents.length > 0) {
     
 } else {
 
-    alert("Looks like the file is incorrect. :( \n In order to continue, please, open the Photoshop's File \"diversitygenerator_by_maianearaujo.psd\" and try again.");
-    var inputFile = File.openDialog("Por please, open the Photoshop's File \"diversitygenerator_by_maianearaujo.psd\"", "*.psd", false);
-    open(inputFile);
+    $.writeln("2");
+    openCorrectFile();
     
 }
 
